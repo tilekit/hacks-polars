@@ -1,2 +1,5 @@
 # hacks-polars
-Exploring Apache Arrow memory model to study applicablity in context of yrs and blob formats.
+Exploring Apache Arrow memory model to study applicability in the context of yrs and blob formats.
+
+---
+This repository serves as a playground for these technologies and is intended for learning and exploration purposes.
